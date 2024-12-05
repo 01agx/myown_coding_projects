@@ -1,6 +1,4 @@
- H
-   
-print("i have tow friends and i am gonna take one large pizza for us .")
+   print("i have tow friends and i am gonna take one large pizza for us .")
 large_pizza_price = 40 
 my_money = 20
 print("ooh ! i have just 20 dollars ,the large pizza price here is 40 dollars and i don't have all that !")
